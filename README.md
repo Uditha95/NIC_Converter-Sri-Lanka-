@@ -9,3 +9,8 @@ The community maintained a NIC_Converter-Sri-Lanka-.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+
+## Project Maintainers
+
+*   [Uditha Bandara](https://github.com/Uditha95)
+
