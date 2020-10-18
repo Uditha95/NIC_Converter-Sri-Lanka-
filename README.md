@@ -7,7 +7,7 @@ The community maintained a NIC_Converter-Sri-Lanka-.
 
 ## How to contribute an implementation (code/documentation)?
 
-*   Have a look at open issues. They contain the list of algorithms/DS we plan to be implemented. Pick an unassigned issue.
+*   Have a look at open issues. Pick an unassigned issue.
 *   You can also create a new issue for an algorithm that is not in the list.
 *   Make sure you are **assigned** for the issue.
 *   Send a PR. 
